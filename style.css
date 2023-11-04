@@ -1,3 +1,9 @@
 body {
     background-color: #020405;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  
